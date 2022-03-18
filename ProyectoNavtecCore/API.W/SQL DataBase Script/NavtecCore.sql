@@ -4,6 +4,8 @@
 -- Descripción:		Proyecto Navtec Core
 -- =============================================
 
+--Test
+
 USE [NavtecCore]
 GO
 --Empresas*		-	Clientes*
