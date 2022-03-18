@@ -4,7 +4,7 @@
 -- Descripción:		Proyecto Navtec Core
 -- =============================================
 
---Test 2
+--Test 3!!! - Karen
 
 USE [NavtecCore]
 GO
